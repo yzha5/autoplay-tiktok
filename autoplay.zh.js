@@ -37,6 +37,6 @@ console.log(
 )
 
 //开始自动切视频
-const el=document.querySelector("[data-e2e='arrow-right']");
+const el=document.querySelector("[data-e2e='video-switch-next-arrow']");
 nextVideo(min,max,el,node,0,0);
 
